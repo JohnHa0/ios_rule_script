@@ -1,17 +1,17 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-08 22:31:51
+# UPDATED: 2021-04-10 02:15:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 43
-# DOMAIN-SUFFIX: 29320
+# DOMAIN-SUFFIX: 29319
 # USER-AGENT: 49
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 128
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 29587
+# TOTAL: 29586
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -19694,7 +19694,6 @@ www-cdn.icloud.com.akadns.net
 .s1s1s1.com
 .s2stagehance.com
 .s3.99hiya.net
-.s3.ax1x.com
 .s4.zetaboards.com
 .s4m.xyz
 .s4miniarchive.com

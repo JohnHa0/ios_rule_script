@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-08 02:27:04
+# UPDATED: 2021-04-10 02:15:41
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 44959
-# DOMAIN: 20718
+# DOMAIN: 20731
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 65982
+# TOTAL: 65995
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -141,7 +141,6 @@ payload:
   - DOMAIN,1dollarempire.com
   - DOMAIN,1e122c580cf.com
   - DOMAIN,1ejaculationinterne.com
-  - DOMAIN,1f7wwaex9rbh.com
   - DOMAIN,1girl1pitcher.com
   - DOMAIN,1girl1pitcher.org
   - DOMAIN,1guy1cock.com
@@ -1665,6 +1664,7 @@ payload:
   - DOMAIN,ads.mircx.com
   - DOMAIN,ads.mmania.com
   - DOMAIN,ads.mnemosoft.com
+  - DOMAIN,ads.mobilautomaten.com
   - DOMAIN,ads.mobilebet.com
   - DOMAIN,ads.mobilemarketer.com
   - DOMAIN,ads.mobvertising.net
@@ -1752,6 +1752,7 @@ payload:
   - DOMAIN,ads.programattik.com
   - DOMAIN,ads.propertycasualty360.com
   - DOMAIN,ads.prospect.org
+  - DOMAIN,ads.proz.com
   - DOMAIN,ads.pruc.org
   - DOMAIN,ads.psd2html.com
   - DOMAIN,ads.publicdisgrace.com
@@ -1823,6 +1824,7 @@ payload:
   - DOMAIN,ads.stephensmedia.com
   - DOMAIN,ads.stileproject.com
   - DOMAIN,ads.storm8.com
+  - DOMAIN,ads.sunjournal.com
   - DOMAIN,ads.suomiautomaatti.com
   - DOMAIN,ads.superawesome.tv
   - DOMAIN,ads.superonline.com
@@ -2090,6 +2092,7 @@ payload:
   - DOMAIN,adserver.gameparty.net
   - DOMAIN,adserver.goforandroid.com
   - DOMAIN,adserver.gorillanation.com
+  - DOMAIN,adserver.hardsextube.com
   - DOMAIN,adserver.harktheherald.com
   - DOMAIN,adserver.hispanoclick.com
   - DOMAIN,adserver.hostinteractive.com
@@ -2530,7 +2533,6 @@ payload:
   - DOMAIN,alaskaaair.com
   - DOMAIN,albamargroup.com
   - DOMAIN,albanypowerexchange.com
-  - DOMAIN,albasha-lb.com
   - DOMAIN,alberguecasaanita.com
   - DOMAIN,albertohernandezart.com
   - DOMAIN,albiondrugs.com
@@ -6650,6 +6652,7 @@ payload:
   - DOMAIN,digitalmediaventures.com
   - DOMAIN,digitalmerkat.com
   - DOMAIN,digitalmuladi.com
+  - DOMAIN,digitalnahrvatska.org
   - DOMAIN,digitrendsafrica.com
   - DOMAIN,digivoyage.com
   - DOMAIN,dikkeboktor.com
@@ -6798,7 +6801,6 @@ payload:
   - DOMAIN,documentbase.net
   - DOMAIN,documentserver.net
   - DOMAIN,documentsite.net
-  - DOMAIN,docusign.dvviagens.com
   - DOMAIN,docv4.subiz.com
   - DOMAIN,docviewprocess.bplaced.net
   - DOMAIN,doda.redirectme.net
@@ -6868,6 +6870,7 @@ payload:
   - DOMAIN,down.unadnet.com.cn
   - DOMAIN,down.upantool.com
   - DOMAIN,down.whphonesoft.com
+  - DOMAIN,down.xiazai2.net
   - DOMAIN,down.yxdfc.com
   - DOMAIN,down2.9apps.com
   - DOMAIN,down2.feiyang163.com
@@ -7766,6 +7769,7 @@ payload:
   - DOMAIN,fantastechs.com
   - DOMAIN,fantasy-hacks.com
   - DOMAIN,fantasyhack.com
+  - DOMAIN,fap2babes.com
   - DOMAIN,fapping.club
   - DOMAIN,farcbook.000webhostapp.com
   - DOMAIN,farethief.com
@@ -9466,7 +9470,6 @@ payload:
   - DOMAIN,hackspike.com
   - DOMAIN,hackspix.com
   - DOMAIN,hacksstore.com
-  - DOMAIN,hackstation.net
   - DOMAIN,hackstool.com
   - DOMAIN,hacksuniverse.gamespress.net
   - DOMAIN,hackszone.com
@@ -9876,6 +9879,7 @@ payload:
   - DOMAIN,humanverify.net
   - DOMAIN,humdrumhat.com
   - DOMAIN,humlieschoolofmusic.com
+  - DOMAIN,humorpool.com
   - DOMAIN,hungaryexpres.com
   - DOMAIN,hungergame.com
   - DOMAIN,hunshop.natureflower.com
@@ -9966,6 +9970,7 @@ payload:
   - DOMAIN,icloud21.com
   - DOMAIN,icloudupdates.com
   - DOMAIN,iclwy.xyz
+  - DOMAIN,ico-telegram.org
   - DOMAIN,iconadserver.com
   - DOMAIN,iconnect007mail.com
   - DOMAIN,iconnigeria.com
@@ -11758,6 +11763,7 @@ payload:
   - DOMAIN,lv-home.net
   - DOMAIN,lwasxldakmhx.com
   - DOMAIN,lwspa4all.com
+  - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lyjcpycaufud.com
   - DOMAIN,lymphoedematherapy.com
   - DOMAIN,lync.touchcommerce.com
@@ -11784,6 +11790,7 @@ payload:
   - DOMAIN,m.casino888vn.com
   - DOMAIN,m.cityads.com
   - DOMAIN,m.clickability.com
+  - DOMAIN,m.cnsparkler.com
   - DOMAIN,m.f2z4d.cn
   - DOMAIN,m.five88.com
   - DOMAIN,m.j5s9b.cn
@@ -12363,6 +12370,7 @@ payload:
   - DOMAIN,metrics.sdkbox.com
   - DOMAIN,metrics.sephora.com
   - DOMAIN,metrics.silive.com
+  - DOMAIN,metrics.soundandvision.com
   - DOMAIN,metrics.syracuse.com
   - DOMAIN,metrics.target.com
   - DOMAIN,metrics.theatlantic.com
@@ -13416,6 +13424,7 @@ payload:
   - DOMAIN,ntrb.qc.coccoc.com
   - DOMAIN,nuahpaper.com
   - DOMAIN,nubolabs.com
+  - DOMAIN,nuclear3.com
   - DOMAIN,nucleusico.com
   - DOMAIN,nude-webcams.com
   - DOMAIN,nude-wife.com
@@ -13831,6 +13840,7 @@ payload:
   - DOMAIN,owlplayz.com
   - DOMAIN,ox-d.cloud9-media.net
   - DOMAIN,ox-d.photobucket.com
+  - DOMAIN,ox-d.popmatters.com
   - DOMAIN,ox-d.viralnova.com
   - DOMAIN,ox.hoosiertimes.com
   - DOMAIN,oxen.hillcountrytexas.com
@@ -13961,6 +13971,7 @@ payload:
   - DOMAIN,partners.fanduel.com
   - DOMAIN,partners.icubeswire.com
   - DOMAIN,partners.parimatch.net
+  - DOMAIN,partners.popmatters.com
   - DOMAIN,partners.priceline.com
   - DOMAIN,partners.realgirlsmedia.com
   - DOMAIN,partners.triplelift.com
@@ -13977,7 +13988,6 @@ payload:
   - DOMAIN,passionsofmyheart.com
   - DOMAIN,passport.mobohappy.com
   - DOMAIN,passport.youzu.com
-  - DOMAIN,passpport.com
   - DOMAIN,password.newzgames.com
   - DOMAIN,password.thishack.org
   - DOMAIN,passwordr.com
@@ -13988,6 +13998,7 @@ payload:
   - DOMAIN,pathofhacks.com
   - DOMAIN,patnahousing.com
   - DOMAIN,patoris.xyz
+  - DOMAIN,patraglobal.com
   - DOMAIN,patriciaycarlitos.com
   - DOMAIN,patrickdimichele.com
   - DOMAIN,patrickramirezangels.com
@@ -14105,7 +14116,6 @@ payload:
   - DOMAIN,perinstallcash.com
   - DOMAIN,permato.com
   - DOMAIN,permis-ok.com
-  - DOMAIN,pernikunik.com
   - DOMAIN,perpinshop.com
   - DOMAIN,perr.hola.org
   - DOMAIN,persiajam.com
@@ -16287,6 +16297,7 @@ payload:
   - DOMAIN,shit4shit.com
   - DOMAIN,shivafurnishings.com
   - DOMAIN,shivamcommunications.com
+  - DOMAIN,shivamelectrochem.com
   - DOMAIN,shmdigitalllc.com
   - DOMAIN,shmokiads.com
   - DOMAIN,shnyagi.net
@@ -16409,7 +16420,6 @@ payload:
   - DOMAIN,simplifylifetime.com
   - DOMAIN,simplycast.com
   - DOMAIN,simplycommoncents.com
-  - DOMAIN,simplycrack.com
   - DOMAIN,simplyfwd.com
   - DOMAIN,simprove.com
   - DOMAIN,simpsons.filesforgames.com
@@ -17835,7 +17845,6 @@ payload:
   - DOMAIN,theborderhounds.com
   - DOMAIN,thecapacityforlearning.com
   - DOMAIN,thecarnells.com
-  - DOMAIN,thecheckpointchallenge.com
   - DOMAIN,theclickers.net
   - DOMAIN,theconroysflorist.com
   - DOMAIN,thecrazylifeofcarmen.com
@@ -18366,6 +18375,7 @@ payload:
   - DOMAIN,tracker.leadenhancer.com
   - DOMAIN,tracker.mtrax.net
   - DOMAIN,tracker.mtrtb.com
+  - DOMAIN,tracker.neon-lab.com
   - DOMAIN,tracker.netklix.com
   - DOMAIN,tracker.rqmob.com
   - DOMAIN,tracker.trackerfix.com
@@ -18661,6 +18671,7 @@ payload:
   - DOMAIN,tushiwang.com
   - DOMAIN,tutkuav.com
   - DOMAIN,tutorialjungle.com
+  - DOMAIN,tutuler.com
   - DOMAIN,tuu-mitsu.com
   - DOMAIN,tuxdipdej.com
   - DOMAIN,tv-live-production.com
@@ -19318,6 +19329,7 @@ payload:
   - DOMAIN,vmtvoting.com
   - DOMAIN,vn.alexajstrack.com
   - DOMAIN,vn.grab-credit4u.com
+  - DOMAIN,vnnimg.clsj365.com
   - DOMAIN,vns01444.com
   - DOMAIN,vns10555.com
   - DOMAIN,vns4390.com
@@ -20215,7 +20227,6 @@ payload:
   - DOMAIN,xcl168.s37.jjisp.com
   - DOMAIN,xclusivedigital.com
   - DOMAIN,xcracked.com
-  - DOMAIN,xctzwsy.com
   - DOMAIN,xdtraffic.com
   - DOMAIN,xemtylecacuoc.bong99.com
   - DOMAIN,xen-media.com
@@ -20235,6 +20246,7 @@ payload:
   - DOMAIN,xiaomovie.com
   - DOMAIN,xiazai.dns-vip.net
   - DOMAIN,xiazai.rilibiao.com.cn
+  - DOMAIN,xiazai2.net
   - DOMAIN,xibanyaliuxue365.com
   - DOMAIN,xiedesign.com
   - DOMAIN,xigushan.com
@@ -20531,6 +20543,7 @@ payload:
   - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,yxshengda.com
   - DOMAIN,yyjgift.com
+  - DOMAIN,yylimg.clsj365.com
   - DOMAIN,yyoutube.com
   - DOMAIN,yyy.pp1500.com
   - DOMAIN,yzesxnzfhyy.com
